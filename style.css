@@ -1,0 +1,25 @@
+header {
+    background-color:beige;
+    text-align: center;
+}
+aside {
+    background-color:palegreen ;
+    text-align: center;
+}
+footer {
+    background-color: orange;
+}
+span.mapa {
+    background-color: white;
+}
+span.video {
+    background-color: white;
+}
+p.azul {
+    background-color: blue;
+    text-align: center;
+}
+span.yellow {
+    background-color: yellow;
+    color: blueviolet;
+}
